@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026163184258",
+    "project_id": "pam-push-marines-quincho-rony",
+    "storage_bucket": "pam-push-marines-quincho-rony.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026163184258:android:7e428656d8fd09b46a9a9b",
+        "android_client_info": {
+          "package_name": "pe.edu.pam.marinesrony.pushlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5OsrZggahsiXrCH4eMUlRZ-KL6s_mfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

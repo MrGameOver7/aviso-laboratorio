@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Clave privada de cuenta de servicio de Firebase (NUNCA subir a GitHub)
+*-firebase-adminsdk-*.json
